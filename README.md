@@ -9,11 +9,17 @@
 
 :small_blue_diamond: [Tecnologias utilizadas](#tecnologias-utilizadas)
 
+:small_blue_diamond: [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+
+
+
 ## Descrição do projeto 
 
 <p align="justify">
   O desafio proposto pelo curso Devquest, consiste em usar a API do Github para buscar o usuário, filtrando seus dados na tela como seguidores, repositorios (forks, watchers e stars) e eventos. 
 </p>
+
+- ``Link para página do projeto`` https://brunorodri.github.io/github-api/
 
 ![image](https://github.com/BrunoRodri/github-api/assets/19192121/a66d0689-4509-4840-b37c-cdb20ee30ef5)
 
@@ -25,12 +31,8 @@
 - ``CSS``
 - ``Javascript``
 
-Tecnologias utilizadas
-HTML
-CSS
-Javascript
-O desafio
-O desafio proposto pelo curso Devquest, consiste em usar a API do Github para buscar seu usuário, filtrando seus dados na tela.
+## Desenvolvimento Contínuo
 
-Desenvolvimento Contínuo
+<p align="justify">
 Desde então continuarei desenvolvendo projetos com HTML, CSS, Javascript e logo trarei projetos mais complexos.
+</p>
