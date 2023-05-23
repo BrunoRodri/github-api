@@ -1,4 +1,4 @@
-Um projeto com HTML, CSS e Javascript proposto pelo curso DevQuest.
+<h1 align="center"> Um projeto com HTML, CSS e Javascript proposto pelo curso DevQuest. </h1>
 
 ![image](https://github.com/BrunoRodri/github-api/assets/19192121/a66d0689-4509-4840-b37c-cdb20ee30ef5)
 
